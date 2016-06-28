@@ -12,8 +12,8 @@ Live example [at my blog](http://jessicacantlope.com) - which also has parallax 
 To use bg-click, make sure that both the jQuery and bg-click.js scripts are included.
 
 ####Download bg-click.js####
-- [Download the latest release](https://github.com/jessicacantlope/bg-click.js/archive/v1.1.0.zip).
-- Clone the repo: `git clone https://github.com/jessicacantlope/bg-click.js.git`.
+- [Download the latest release](https://github.com/JessicaCantlope/bg-click/archive/master.zip).
+- Clone the repo: `git clone https://github.com/JessicaCantlope/bg-click.git`.
 
 
 ####Include jQuery and bg-click.js scripts####
@@ -55,7 +55,3 @@ For best results, use Chrome.
 - I include Louis-Rémi's [backgroundsize.htc] (https://github.com/louisremi/background-size-polyfill) for background coverage in old versions of IE.
 -- It's supposed to make background-size: cover work in IE8. It WAS working at one point but currently isn't; I'm trying to figure out why. IE8 is no longer officially supported, but I may figure this out yet.
 - There's an issue where the default background doesn't tile in IE8 and IE9.
-
-## Special Thanks ##
-
-Eric Winton helped me figure out some of the math. Thank you!
